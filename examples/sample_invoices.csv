@@ -1,0 +1,5 @@
+client,amount,invoice_id,due_date,email
+Acme Corp,$1500,INV-2026-042,2026-11-01,accounts@acme.com
+Beta LLC,$750,INV-2026-043,2026-11-05,finance@beta.com
+Gamma Inc,$2200,INV-2026-044,2026-11-20,billing@gamma.com
+Delta Co,$300,INV-2026-045,2026-10-15,pay@delta.com
